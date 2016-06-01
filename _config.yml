@@ -1,7 +1,7 @@
 name: Startup Spaza
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.4289781672414392
+typography_spectrum: 0.50193
 title: Startup Spaza
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.40874507441185415
+  brandStrength: 0.4375
   lightness: 0.6494221896864474
   saturation: 0.04800174245610833
   rhythmicContrast: 0.41838616598397493
