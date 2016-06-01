@@ -1,0 +1,28 @@
+name: Startup Spaza
+favicon: null
+layout_spectrum: 0.26741560781374574
+typography_spectrum: 0.4289781672414392
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.40874507441185415
+  lightness: 0.6494221896864474
+  saturation: 0.04800174245610833
+  rhythmicContrast: 0.41838616598397493
+purpose: []
