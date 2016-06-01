@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Startup Spaza]]></title>
         <description><![CDATA[Startup Spaza]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/startup-spaza/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 16:17:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 01 Jun 2016 16:29:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/startup-spaza/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Us]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e69be49-780a-4b2f-b778-5c67276900a7.jpg">]]></description>
+            <link>https://thegrid.ai/startup-spaza/about-us/index.html</link>
+            <guid isPermaLink="false">6c13afd3-5a58-4ce5-bfb2-41b18acbabb9</guid>
+            <pubDate>Wed, 01 Jun 2016 16:29:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Are Hoverboards becoming safer?]]></title>
             <description><![CDATA[<img src="https://www.wired.com/wp-content/uploads/2016/05/segway-lead.jpg">]]></description>
